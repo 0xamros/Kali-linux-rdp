@@ -19,7 +19,7 @@ read -p "choose ngrok region: " CRP
 echo "===================================="
 echo "Please Wait, Installing RDP"
 echo "===================================="
-docker pull danielguerra/ubuntu-xrdp
+docker pull danchitnis/xrdp
 clear
 echo "===================================="
 echo "Start RDP"
@@ -36,4 +36,4 @@ echo "This Script Created By ReBlue"
 echo "Hold on, it can take time."
 echo "===================================="
 echo "===================================="
-docker run --rm -p 3388:3389 danielguerra/ubuntu-xrdp:kali > /dev/null 2>&1
+docker run --rm -p 3388:3389 danchitnis/xrdp:kali > /dev/null 2>&1
