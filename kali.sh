@@ -36,4 +36,4 @@ echo "This Script Created By ReBlue"
 echo "Hold on, it can take time."
 echo "===================================="
 echo "===================================="
-docker run --rm -p 3388:3389 danchitnis/xrdp:ubuntu-xfce > /dev/null 2>&1
+docker run --rm -p 3388:3389 danchitnis/xrdp:ubuntu-xfce ubuntu ubuntu yes > /dev/null 2>&1
