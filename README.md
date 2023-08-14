@@ -5,7 +5,7 @@ Kali linux rdp with docker and ngrok!!
 Click Star:)
 # How To Install
 
-<pre><code>wget -O kali.sh https://raw.githubusercontent.com/RezkyIt/Kali-linux-rdp/main/kali.sh</code></pre>
+<pre><code>wget -O kali.sh https://raw.githubusercontent.com/0xamros/Kali-linux-rdp/main/kali.sh</code></pre>
 
 <pre><code>chmod +x kali.sh</code></pre>
 
